@@ -71,6 +71,9 @@
 荻原亜彩美・森山奈々美・浅原正幸・加藤祥・山崎誠 (2019) 『分類語彙表』に対する反対語情報付与, 『言語処理学会第25回年次大会発表論文集』, 1061-1064.
 https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-7.pdf
 
+加藤祥・浅原正幸・森山奈々美・荻原亜彩美・山崎誠 （2021）『分類語彙表』に対する反対語情報付与, 『自然言語処理』, vol. 28, no. 1, pp.60-81.
+https://doi.org/10.5715/jnlp.28.60
+
 ## License
 CC BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja
 
